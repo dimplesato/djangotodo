@@ -1,9 +1,5 @@
 # djangotodo
 
-A Minimal Todo Application build by Django Framework.
-
-## Requirement
-
 ```bash
 $ python -V
 Python 3.9.7
@@ -25,11 +21,6 @@ wheel      0.37.0
 ## Usage
 
 1)
-```bash
-$ git clone https://github.com/hayatasuuu/djangotodo.git
-```
-
-2)
 ```bash
 $ cd djangotodo
 $ pip install -r requirements.txt
